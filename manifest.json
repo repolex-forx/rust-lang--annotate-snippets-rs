@@ -159,6 +159,84 @@
       ],
       "ast": [
         "aggregate/ast/2d2643cf7c64abbf014ff1df736865074a8b94de/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/2d2643cf7c64abbf014ff1df736865074a8b94de.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "anstyle",
+          "ecosystem": "CARGO",
+          "version": "1.0.13",
+          "githubOrg": "rust-cli",
+          "githubRepo": "anstyle",
+          "githubCommit": "14dd743496d1614f8261a093ce755f26d8e2069d",
+          "githubTag": "v1.0.13",
+          "githubUrl": "https://github.com/rust-cli/anstyle.git",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "memchr",
+          "ecosystem": "CARGO",
+          "version": "2.8.0",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "memchr",
+          "githubCommit": "886ca4ca4820297191c6e9f7b023dc356f31a4d1",
+          "githubTag": "2.8.0",
+          "githubUrl": "https://github.com/BurntSushi/memchr",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "unicode-width",
+          "ecosystem": "CARGO",
+          "version": "0.2.2",
+          "githubOrg": "unicode-rs",
+          "githubRepo": "unicode-width",
+          "githubCommit": "9d98411769fe13c7c18cab0b3fbbab29ba8350ea",
+          "githubTag": "v0.2.2",
+          "githubUrl": "https://github.com/unicode-rs/unicode-width",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "annotate-snippets",
+          "ecosystem": "CARGO",
+          "version": "0.12.18",
+          "githubOrg": "rust-lang",
+          "githubRepo": "annotate-snippets-rs",
+          "githubCommit": "56b9d04fddd97d0a981a893d813e4998795b601c",
+          "githubTag": "0.12.18",
+          "githubUrl": "https://github.com/rust-lang/annotate-snippets-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "anstream",
+          "ecosystem": "CARGO",
+          "version": "1.0.0",
+          "githubOrg": "rust-cli",
+          "githubRepo": "anstyle",
+          "githubCommit": "ff11cdce66bc7910a4fe7ebc91cd4302cb6789a6",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/rust-cli/anstyle.git",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "divan",
+          "ecosystem": "CARGO",
+          "version": "0.1.16",
+          "githubOrg": "nvzqz",
+          "githubRepo": "divan",
+          "githubCommit": "9800477791fa648a8212a7faf4967a2bc7483522",
+          "githubTag": "v0.1.16",
+          "githubUrl": "https://github.com/nvzqz/divan",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "snapbox",
+          "ecosystem": "CARGO",
+          "version": "1.0.0",
+          "githubOrg": "assert-rs",
+          "githubRepo": "snapbox",
+          "githubUrl": "https://github.com/assert-rs/snapbox/",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
