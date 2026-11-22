@@ -237,7 +237,9 @@
           "githubUrl": "https://github.com/assert-rs/snapbox/",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/2d2643cf7c64abbf014ff1df736865074a8b94de/chunk-001.nq.gz",
+      "dep": "dep/2d2643cf7c64abbf014ff1df736865074a8b94de.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
