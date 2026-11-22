@@ -1,0 +1,7 @@
+[2026-11-22T14:29:17Z] === AST ITERATION 1 START | repo=rust-lang/annotate-snippets-rs sha=2d2643cf ===
+[2026-11-22T14:29:17Z] [iter=1] PHASE START: ast repo=rust-lang/annotate-snippets-rs sha=2d2643cf
+[2026-11-22T14:29:17Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T14:30:08Z] [iter=1] AST chunks built count=1 triples=430665
+[2026-11-22T14:30:08Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/2d2643cf7c64abbf014ff1df736865074a8b94de/.complete
+[2026-11-22T14:30:08Z] [iter=1] PHASE END: ast elapsed_s=50 elapsed_min=0.8
+[2026-11-22T14:30:08Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
