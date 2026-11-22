@@ -1,0 +1,11 @@
+{
+  "org": "rust-lang",
+  "repo": "annotate-snippets-rs",
+  "versions": [
+    {
+      "commit": "2d2643cf7c64abbf014ff1df736865074a8b94de",
+      "tag": "0.12.16",
+      "parsed_at": "2026-11-22T14:48:48.831334+00:00"
+    }
+  ]
+}
